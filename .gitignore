@@ -1,5 +1,6 @@
 HELP.md
 target/
+# src/main/java/com/libratic/rest/libratic/database/*.db
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
